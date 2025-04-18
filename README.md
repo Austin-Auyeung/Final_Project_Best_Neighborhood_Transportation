@@ -3,11 +3,9 @@
 *Team Name Here*
 
 Members:
-
-
-
 Ryan Fiorentini, RGF21@pitt.edu
-
+Austin Auyeung, aua16@pitt.edu
+Astor Stave, ars800@pitt.edu
 
 
 Datasets:
@@ -15,6 +13,8 @@ Datasets:
 On-road Bicycle Pavement Markings: https://data.wprdc.org/dataset/on-road-bicycle-pavement-markings 
 Dataset of every Bike Lane/Sharrow in Pittsburgh, marked by street name, cross streets, year, and length in miles. 
 
+Pittsburgh Parking Authority Meter Areas: https://data.wprdc.org/datastore/dump/c4571554-aaf1-4d02-9739-60a78875bb1d
+Dataset of areas in Pittsburgh with metered parking which includes rates, hours, days, and max parking time.
 
 
 Overview:
