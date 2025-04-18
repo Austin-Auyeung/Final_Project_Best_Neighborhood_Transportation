@@ -2,7 +2,7 @@
 
 *Team Name Here*
 
-Members:
+Members:<br>
 Ryan Fiorentini, RGF21@pitt.edu<br>
 Austin Auyeung, aua16@pitt.edu<br>
 Astor Stave, ars800@pitt.edu
