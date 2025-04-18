@@ -18,4 +18,4 @@ Dataset of areas in Pittsburgh with metered parking which includes rates, hours,
 
 
 Overview:
-This repository serves as an analysis of which neighborhood in Pittsburgh is the best transportation wise, by utilizing three different data sets. 
+This repository serves as an analysis of which neighborhood in Pittsburgh is the best transportation wise, by utilizing three different data sets.
