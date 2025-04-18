@@ -16,6 +16,8 @@ Dataset of every Bike Lane/Sharrow in Pittsburgh, marked by street name, cross s
 Pittsburgh Parking Authority Meter Areas: https://data.wprdc.org/datastore/dump/c4571554-aaf1-4d02-9739-60a78875bb1d
 Dataset of areas in Pittsburgh with metered parking which includes rates, hours, days, and max parking time.
 
+City of Pittburgh Traffic Count: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
+Dataset of traffic trackers in Pittburgh neighborhoods and how much cars and bikes are counted per day.
 
 Overview:
 This repository serves as an analysis of which neighborhood in Pittsburgh is the best transportation wise, by utilizing three different data sets. 
